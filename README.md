@@ -10,5 +10,4 @@
 ### Python
 #### The Python folder contains scripts, notebooks, and libraries for data analysis and visualization using Python programming language.
 
-## How to Use
-#### Feel free to explore the respective subfolders to access the files and resources. You can download or clone the repository to your local machine to start working with the files.
+
