@@ -5,6 +5,8 @@
 ## Subfolders
 ### Excel
 #### This folder contains Collection of Excel works that I have worked on over a course of time through Microsoft Excel. I have worked with different kinds of problems covering essential topics like VLOOKUP, Pivot Table and Dashboarding 
+### SQL
+#### A collection of SQL scripts and projects covering topics like database design, queries, stored procedures, and data analysis.
 ### Power BI
 #### This folder contains my works on Various problem scenarios dealing with real world data, making visually appealing dashboards for people to breakdown analysis work. It also has my work on DAX that helped me get better understanding of easiness to work with BI.
 ### Python
