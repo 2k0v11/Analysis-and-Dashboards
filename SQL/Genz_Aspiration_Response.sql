@@ -1,5 +1,5 @@
 -- Genz Career Aspirations
--- By Arpit Shukla
+
 
 use genzdataset;
 show tables;
